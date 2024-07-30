@@ -1,0 +1,2 @@
+riskAllele	pValue	pValueAnnotation	riskFrequency	orValue	beta	ci	mappedGenes	traitName	efoTraits	bgTraits	accessionId	locations	pubmedId	author
+rs7185636-T	2E-8	-	0.8200000000000001	1.0869565	-	[1.05-1.12]	IQCK	"Alzheimer's disease (late onset)"	"late-onset Alzheimers disease"	-	GCST007511	16:19796841	30820047	"Kunkle BW"
